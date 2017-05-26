@@ -95,15 +95,15 @@
 			<url>file://${project.build.directory}/mvn-repo</url>
 		</repository>
 	</distributionManagement>
-
+<!-- 
 	<repositories>
 		<repository>
 			<id>mvn-repo</id>
-			<url>https://raw.github.com/bcshmily/mvn-repo/mvn-repo/</url>
+			<url>https://raw.github.com/bcshmily/mvn-repo/master/</url>
 			<snapshots>
 				<enabled>true</enabled>
 				<updatePolicy>always</updatePolicy>
 			</snapshots>
 		</repository>
-	</repositories>
+	</repositories> -->
 </project>
