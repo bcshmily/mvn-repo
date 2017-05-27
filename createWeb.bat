@@ -1,0 +1,1 @@
+mvn org.apache.maven.plugins:maven-archetype-plugin:2.4:generate -DarchetypeCatalog=https://raw.github.com/bcshmily/mvn-repo/master/archetype-catalog.xml
