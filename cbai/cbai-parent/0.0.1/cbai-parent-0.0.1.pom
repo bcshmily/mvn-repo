@@ -20,11 +20,13 @@
 			<plugin>
 				<artifactId>maven-assembly-plugin</artifactId>
 				<configuration>
+				<!--
 					<archive>
 						<manifest>
 							<mainClass>com.allen.capturewebdata.Main</mainClass>
 						</manifest>
 					</archive>
+				-->
 					<descriptorRefs>
 						<descriptorRef>jar-with-dependencies</descriptorRef>
 					</descriptorRefs>
@@ -95,15 +97,4 @@
 			<url>file://${project.build.directory}/mvn-repo</url>
 		</repository>
 	</distributionManagement>
-<!-- 
-	<repositories>
-		<repository>
-			<id>mvn-repo</id>
-			<url>https://raw.github.com/bcshmily/mvn-repo/master/</url>
-			<snapshots>
-				<enabled>true</enabled>
-				<updatePolicy>always</updatePolicy>
-			</snapshots>
-		</repository>
-	</repositories> -->
 </project>
