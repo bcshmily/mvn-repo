@@ -3,10 +3,10 @@
   <groupId>cbai</groupId>
   <artifactId>cbai-sql-convert</artifactId>
   <versioning>
-    <release>1.1.1</release>
+    <release>1.2.0</release>
     <versions>
-      <version>1.1.1</version>
+      <version>1.2.0</version>
     </versions>
-    <lastUpdated>20170622130019</lastUpdated>
+    <lastUpdated>20170728130301</lastUpdated>
   </versioning>
 </metadata>
