@@ -6,7 +6,7 @@
     <archetype>
       <groupId>cbai</groupId>
       <artifactId>cbai-maven-webapp-archetype</artifactId>
-      <version>1.2.0</version>
+      <version>1.4.0</version>
       <description>cbai-maven-webapp-archetype</description>
     </archetype>
   </archetypes>
