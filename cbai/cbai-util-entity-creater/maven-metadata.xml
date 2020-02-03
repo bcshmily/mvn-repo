@@ -3,10 +3,10 @@
   <groupId>cbai</groupId>
   <artifactId>cbai-util-entity-creater</artifactId>
   <versioning>
-    <release>1.0.1</release>
+    <release>1.2.0</release>
     <versions>
-      <version>1.0.1</version>
+      <version>1.2.0</version>
     </versions>
-    <lastUpdated>20180604134629</lastUpdated>
+    <lastUpdated>20200203050837</lastUpdated>
   </versioning>
 </metadata>
