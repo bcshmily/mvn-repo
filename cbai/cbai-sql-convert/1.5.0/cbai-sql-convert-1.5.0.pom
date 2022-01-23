@@ -1,0 +1,52 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>cbai</groupId>
+		<artifactId>cbai-parent</artifactId>
+		<version>0.0.1</version>
+	</parent>
+	<groupId>cbai</groupId>
+	<artifactId>cbai-sql-convert</artifactId>
+	<version>1.5.0</version>
+
+	<dependencies>
+		<dependency>
+			<groupId>cbai</groupId>
+			<artifactId>cbai-util-lang</artifactId>
+			<version>[1.0.3,]</version>
+		</dependency>
+		<!-- 日志文件管理包 -->
+		<dependency>
+			<groupId>cbai</groupId>
+			<artifactId>cbai-util-log</artifactId>
+			<version>[1.0.0,]</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>cbai</groupId>
+			<artifactId>cbai-db-define</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>cbai</groupId>
+			<artifactId>cbai-util-excel</artifactId>
+			<version>[1.4.5,]</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+	<repositories>
+		<repository>
+			<id>mvn-repo</id>
+			<url>https://raw.github.com/bcshmily/mvn-repo/master/</url>
+			<snapshots>
+				<enabled>true</enabled>
+				<updatePolicy>always</updatePolicy>
+			</snapshots>
+		</repository>
+	</repositories>
+	<!-- <dependencyManagement> <dependencies> <dependency> <groupId>cbai</groupId> 
+		<artifactId>cbai-util-pom</artifactId> <version>1.0.0</version> <type>pom</type> 
+		<scope>import</scope> </dependency> </dependencies> </dependencyManagement> -->
+</project>
