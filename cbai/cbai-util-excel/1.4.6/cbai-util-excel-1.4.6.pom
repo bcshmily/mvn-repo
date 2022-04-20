@@ -1,0 +1,39 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>cbai</groupId>
+    <artifactId>cbai-parent</artifactId>
+    <version>0.1.8</version>
+  </parent>
+  <groupId>cbai</groupId>
+  <artifactId>cbai-util-excel</artifactId>
+  <version>1.4.6</version>
+  <description>	</description>
+  <properties>
+    <poi.version>3.17</poi.version>
+  </properties>
+  <dependencies>
+    <dependency>
+      <groupId>cbai</groupId>
+      <artifactId>cbai-util-lang</artifactId>
+      <version>1.1.0</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.poi</groupId>
+      <artifactId>poi-ooxml</artifactId>
+      <version>${poi.version}</version>
+    </dependency>
+  </dependencies>
+  <repositories>
+    <repository>
+      <id>mvn-repo</id>
+      <url>https://raw.github.com/bcshmily/mvn-repo/master/</url>
+      <snapshots>
+        <enabled>true</enabled>
+        <updatePolicy>always</updatePolicy>
+      </snapshots>
+    </repository>
+  </repositories>
+</project>
