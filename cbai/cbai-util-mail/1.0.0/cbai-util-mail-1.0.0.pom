@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>cbai</groupId>
 		<artifactId>cbai-parent</artifactId>
-		<version>0.0.1</version>
+		<version>0.1.8</version>
 	</parent>
 	<artifactId>cbai-util-mail</artifactId>
 	<version>1.0.0</version>
