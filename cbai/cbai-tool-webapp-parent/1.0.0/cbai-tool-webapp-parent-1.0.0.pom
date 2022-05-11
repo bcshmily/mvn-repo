@@ -7,11 +7,11 @@
         <groupId>cbai</groupId>
         <artifactId>cbai-parent</artifactId>
         <version>0.1.8</version>
-        <relativePath/>
+        <relativePath />
     </parent>
     <artifactId>cbai-tool-webapp-parent</artifactId>
     <version>1.0.0</version>
-	<packaging>pom</packaging>
+    <packaging>pom</packaging>
     <name>cbai-tool-webapp-parent</name>
     <description>Demo project for Spring Boot</description>
 
@@ -94,6 +94,10 @@
         <dependency>
             <groupId>cbai</groupId>
             <artifactId>cbai-util-sqlconvert</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>cbai</groupId>
+            <artifactId>cbai-util-zip</artifactId>
         </dependency>
     </dependencies>
 
