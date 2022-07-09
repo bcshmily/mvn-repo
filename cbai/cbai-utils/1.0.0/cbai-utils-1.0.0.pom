@@ -4,6 +4,7 @@
 		<groupId>cbai</groupId>
 		<artifactId>cbai-parent</artifactId>
 		<version>0.1.8</version>
+        <relativePath>../cbai-parent/pom.xml</relativePath>
 	</parent>
 	<groupId>cbai</groupId>
 	<artifactId>cbai-utils</artifactId>
@@ -59,22 +60,7 @@
 			</dependency>
 			<dependency>
 				<groupId>cbai</groupId>
-				<artifactId>cbai-tool-dump</artifactId>
-				<version>1.0.0</version>
-			</dependency>
-			<dependency>
-				<groupId>cbai</groupId>
-				<artifactId>cbai-tool-webapp</artifactId>
-				<version>2.0.0</version>
-			</dependency>
-			<dependency>
-				<groupId>cbai</groupId>
 				<artifactId>cbai-tool-webapp-parent</artifactId>
-				<version>1.0.0</version>
-			</dependency>
-			<dependency>
-				<groupId>cbai</groupId>
-				<artifactId>cbai-util-cache</artifactId>
 				<version>1.0.0</version>
 			</dependency>
 			<dependency>
@@ -100,7 +86,12 @@
 			<dependency>
 				<groupId>cbai</groupId>
 				<artifactId>cbai-util-excel</artifactId>
-				<version>1.4.6</version>
+				<version>1.4.7</version>
+			</dependency>
+			<dependency>
+				<groupId>cbai</groupId>
+				<artifactId>cbai-util-excel-jacob</artifactId>
+				<version>2.0.0</version>
 			</dependency>
 			<dependency>
 				<groupId>cbai</groupId>
