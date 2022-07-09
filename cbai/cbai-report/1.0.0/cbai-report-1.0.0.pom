@@ -5,6 +5,7 @@
 		<groupId>cbai</groupId>
 		<artifactId>cbai-parent</artifactId>
 		<version>0.1.8</version>
+        <relativePath>../cbai-parent/pom.xml</relativePath>
 	</parent>
 	<groupId>cbai</groupId>
 	<artifactId>cbai-report</artifactId>
