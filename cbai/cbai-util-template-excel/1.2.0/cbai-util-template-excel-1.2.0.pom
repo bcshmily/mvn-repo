@@ -5,6 +5,7 @@
 		<groupId>cbai</groupId>
 		<artifactId>cbai-parent</artifactId>
 		<version>0.1.8</version>
+        <relativePath>../cbai-parent/pom.xml</relativePath>
 	</parent>
 	<groupId>cbai</groupId>
 	<artifactId>cbai-util-template-excel</artifactId>
@@ -14,7 +15,7 @@
 		<dependency>
 			<groupId>cbai</groupId>
 			<artifactId>cbai-util-template</artifactId>
-			<version>1.4.1</version>
+			<version>1.5.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.poi</groupId>
