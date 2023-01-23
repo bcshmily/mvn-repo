@@ -35,6 +35,11 @@
 			</dependency>
 			<dependency>
 				<groupId>cbai</groupId>
+				<artifactId>cbai-db-define-reader-a5m2er</artifactId>
+				<version>1.0.0</version>
+			</dependency>
+			<dependency>
+				<groupId>cbai</groupId>
 				<artifactId>cbai-db-define-reader-oracle</artifactId>
 				<version>1.0.0</version>
 			</dependency>
