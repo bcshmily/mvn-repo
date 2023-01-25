@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>cbai</groupId>
+  <artifactId>cbai-util-excel-jacob</artifactId>
+  <versioning>
+    <lastUpdated>20230125122422</lastUpdated>
+    <snapshot>
+      <timestamp>20230125.122422</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.1.0.SN-20230125.122422-1</value>
+        <updated>20230125122422</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.1.0.SN-20230125.122422-1</value>
+        <updated>20230125122422</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>2.1.0.SN-SNAPSHOT</version>
+</metadata>

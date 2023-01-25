@@ -3,10 +3,9 @@
   <groupId>cbai</groupId>
   <artifactId>cbai-util-excel-jacob</artifactId>
   <versioning>
-    <release>2.0.0</release>
     <versions>
-      <version>2.0.0</version>
+      <version>2.1.0.SN-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20220713042949</lastUpdated>
+    <lastUpdated>20230125122422</lastUpdated>
   </versioning>
 </metadata>
