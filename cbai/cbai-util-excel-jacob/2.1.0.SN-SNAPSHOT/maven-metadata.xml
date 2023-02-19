@@ -3,21 +3,21 @@
   <groupId>cbai</groupId>
   <artifactId>cbai-util-excel-jacob</artifactId>
   <versioning>
-    <lastUpdated>20230125122422</lastUpdated>
+    <lastUpdated>20230219150127</lastUpdated>
     <snapshot>
-      <timestamp>20230125.122422</timestamp>
+      <timestamp>20230219.150127</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>2.1.0.SN-20230125.122422-1</value>
-        <updated>20230125122422</updated>
+        <value>2.1.0.SN-20230219.150127-1</value>
+        <updated>20230219150127</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.1.0.SN-20230125.122422-1</value>
-        <updated>20230125122422</updated>
+        <value>2.1.0.SN-20230219.150127-1</value>
+        <updated>20230219150127</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
