@@ -52,6 +52,11 @@
             </dependency>
             <dependency>
                 <groupId>cbai</groupId>
+                <artifactId>cbai-db-define-reader-sqlserver</artifactId>
+                <version>1.0.0</version>
+            </dependency>
+            <dependency>
+                <groupId>cbai</groupId>
                 <artifactId>cbai-db-define-type-convert</artifactId>
                 <version>1.0.0</version>
             </dependency>
