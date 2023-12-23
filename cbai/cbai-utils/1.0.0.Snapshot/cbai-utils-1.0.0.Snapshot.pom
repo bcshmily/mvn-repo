@@ -82,6 +82,11 @@
 			</dependency>
 			<dependency>
 				<groupId>cbai</groupId>
+				<artifactId>cbai-util-cache</artifactId>
+				<version>1.0.0</version>
+			</dependency>
+			<dependency>
+				<groupId>cbai</groupId>
 				<artifactId>cbai-util-code2html</artifactId>
 				<version>1.0.0</version>
 			</dependency>
@@ -149,6 +154,11 @@
 				<groupId>cbai</groupId>
 				<artifactId>cbai-util-mybatis-creator</artifactId>
 				<version>1.1.0</version>
+			</dependency>
+			<dependency>
+				<groupId>cbai</groupId>
+				<artifactId>cbai-util-pdf</artifactId>
+				<version>1.0.0</version>
 			</dependency>
 			<dependency>
 				<groupId>cbai</groupId>
