@@ -123,6 +123,7 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+                <version>2.7.18</version>                
 				<!-- mvn clean package spring-boot:repackage -->
 				<configuration>
 					<classifier>exec</classifier>
