@@ -82,11 +82,6 @@
 			</dependency>
 			<dependency>
 				<groupId>cbai</groupId>
-				<artifactId>cbai-util-cache</artifactId>
-				<version>1.0.0</version>
-			</dependency>
-			<dependency>
-				<groupId>cbai</groupId>
 				<artifactId>cbai-util-code2html</artifactId>
 				<version>1.0.0</version>
 			</dependency>
@@ -108,7 +103,7 @@
 			<dependency>
 				<groupId>cbai</groupId>
 				<artifactId>cbai-util-excel</artifactId>
-				<version>1.5.0</version>
+				<version>1.5.1</version>
 			</dependency>
 			<dependency>
 				<groupId>cbai</groupId>
