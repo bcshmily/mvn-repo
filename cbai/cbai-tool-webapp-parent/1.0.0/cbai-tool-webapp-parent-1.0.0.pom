@@ -104,7 +104,7 @@
 			<dependency>
 				<groupId>cbai</groupId>
 				<artifactId>cbai-utils</artifactId>
-				<version>1.0.0</version>
+				<version>1.0.0.Snapshot</version>
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>
