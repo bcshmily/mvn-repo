@@ -3,11 +3,9 @@
   <groupId>cbai</groupId>
   <artifactId>cbai-tool-webapp-parent</artifactId>
   <versioning>
-    <release>1.0.1.Snapshot</release>
     <versions>
-      <version>1.0.1.Snapshot</version>
       <version>1.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20240325091053</lastUpdated>
+    <lastUpdated>20240526053354</lastUpdated>
   </versioning>
 </metadata>
