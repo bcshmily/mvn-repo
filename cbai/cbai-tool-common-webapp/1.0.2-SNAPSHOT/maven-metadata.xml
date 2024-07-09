@@ -3,21 +3,21 @@
   <groupId>cbai</groupId>
   <artifactId>cbai-tool-common-webapp</artifactId>
   <versioning>
-    <lastUpdated>20240608145324</lastUpdated>
+    <lastUpdated>20240709114505</lastUpdated>
     <snapshot>
-      <timestamp>20240608.145324</timestamp>
+      <timestamp>20240709.114505</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.2-20240608.145324-1</value>
-        <updated>20240608145324</updated>
+        <value>1.0.2-20240709.114505-1</value>
+        <updated>20240709114505</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.2-20240608.145324-1</value>
-        <updated>20240608145324</updated>
+        <value>1.0.2-20240709.114505-1</value>
+        <updated>20240709114505</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
