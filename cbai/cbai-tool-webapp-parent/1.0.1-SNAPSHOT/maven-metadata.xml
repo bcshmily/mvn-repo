@@ -3,16 +3,16 @@
   <groupId>cbai</groupId>
   <artifactId>cbai-tool-webapp-parent</artifactId>
   <versioning>
-    <lastUpdated>20241120045020</lastUpdated>
+    <lastUpdated>20241120050804</lastUpdated>
     <snapshot>
-      <timestamp>20241120.045020</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20241120.050804</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.1-20241120.045020-1</value>
-        <updated>20241120045020</updated>
+        <value>1.0.1-20241120.050804-2</value>
+        <updated>20241120050804</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
