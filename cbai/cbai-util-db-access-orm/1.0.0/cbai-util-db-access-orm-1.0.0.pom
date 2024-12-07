@@ -14,13 +14,20 @@
 	<dependencies>
 		<dependency>
 			<groupId>cbai</groupId>
+			<artifactId>cbai-util-db-access</artifactId>
+			<version>2.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>cbai</groupId>
 			<artifactId>cbai-util-lang</artifactId>
 			<version>1.1.0</version>
+			<scope>test</scope>
 		</dependency>
 		<dependency>
 			<groupId>cbai</groupId>
 			<artifactId>cbai-util-template</artifactId>
 			<version>1.5.0</version>
+			<scope>test</scope>
 		</dependency>
 		<dependency>
 			<groupId>cbai</groupId>
@@ -31,11 +38,7 @@
 			<groupId>cbai</groupId>
 			<artifactId>cbai-db-define-reader</artifactId>
 			<version>1.2.2</version>
-		</dependency>
-		<dependency>
-			<groupId>cbai</groupId>
-			<artifactId>cbai-util-db-access</artifactId>
-			<version>2.0.0</version>
+			<scope>test</scope>
 		</dependency>
 		<dependency>
 			<groupId>cbai</groupId>
