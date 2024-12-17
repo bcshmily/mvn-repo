@@ -3,21 +3,21 @@
   <groupId>cbai</groupId>
   <artifactId>cbai-util-db-access</artifactId>
   <versioning>
-    <lastUpdated>20241216154114</lastUpdated>
+    <lastUpdated>20241217160624</lastUpdated>
     <snapshot>
-      <timestamp>20241216.154114</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20241217.160624</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>2.2.0-20241216.154114-1</value>
-        <updated>20241216154114</updated>
+        <value>2.2.0-20241217.160624-2</value>
+        <updated>20241217160624</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.2.0-20241216.154114-1</value>
-        <updated>20241216154114</updated>
+        <value>2.2.0-20241217.160624-2</value>
+        <updated>20241217160624</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
