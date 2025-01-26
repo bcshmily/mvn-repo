@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>cbai</groupId>
+  <artifactId>cbai-util-http</artifactId>
+  <versioning>
+    <lastUpdated>20250126122328</lastUpdated>
+    <snapshot>
+      <timestamp>20250126.122328</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.0.0-20250126.122328-1</value>
+        <updated>20250126122328</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.0.0-20250126.122328-1</value>
+        <updated>20250126122328</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>2.0.0-SNAPSHOT</version>
+</metadata>
