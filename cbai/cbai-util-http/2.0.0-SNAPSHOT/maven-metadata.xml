@@ -3,21 +3,21 @@
   <groupId>cbai</groupId>
   <artifactId>cbai-util-http</artifactId>
   <versioning>
-    <lastUpdated>20250201071209</lastUpdated>
+    <lastUpdated>20250202092542</lastUpdated>
     <snapshot>
-      <timestamp>20250201.071209</timestamp>
-      <buildNumber>7</buildNumber>
+      <timestamp>20250202.092542</timestamp>
+      <buildNumber>8</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>2.0.0-20250201.071209-7</value>
-        <updated>20250201071209</updated>
+        <value>2.0.0-20250202.092542-8</value>
+        <updated>20250202092542</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.0.0-20250201.071209-7</value>
-        <updated>20250201071209</updated>
+        <value>2.0.0-20250202.092542-8</value>
+        <updated>20250202092542</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
