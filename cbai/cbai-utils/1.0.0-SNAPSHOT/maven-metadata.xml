@@ -2,19 +2,19 @@
 <metadata modelVersion="1.1.0">
   <groupId>cbai</groupId>
   <artifactId>cbai-utils</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
   <versioning>
-    <lastUpdated>20250208125703</lastUpdated>
     <snapshot>
-      <timestamp>20250208.125703</timestamp>
-      <buildNumber>15</buildNumber>
+      <timestamp>20250211.091542</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
+    <lastUpdated>20250211091542</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20250208.125703-15</value>
-        <updated>20250208125703</updated>
+        <value>1.0.0-20250211.091542-1</value>
+        <updated>20250211091542</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
-  <version>1.0.0-SNAPSHOT</version>
 </metadata>
