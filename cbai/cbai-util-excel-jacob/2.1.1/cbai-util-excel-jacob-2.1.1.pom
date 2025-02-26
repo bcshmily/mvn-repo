@@ -1,0 +1,44 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>cbai</groupId>
+        <artifactId>cbai-parent</artifactId>
+        <version>0.1.8</version>
+        <relativePath>../cbai-parent/pom.xml</relativePath>
+    </parent>
+    <groupId>cbai</groupId>
+    <artifactId>cbai-util-excel-jacob</artifactId>
+    <version>2.1.1</version>
+    <description>	</description>
+    <dependencies>
+        <dependency>
+            <groupId>cbai</groupId>
+            <artifactId>cbai-util-lang</artifactId>
+            <version>2.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>xyz.cofe</groupId>
+            <artifactId>jacob</artifactId>
+            <version>1.20</version>
+        </dependency>
+        <!-- <dependency> <groupId>org.jxls</groupId> <artifactId>jxls</artifactId> 
+            <version>2.10.0</version> </dependency> -->
+    </dependencies>
+	<repositories>
+		<repository>
+			<id>central</id>
+			<name>Central Repository</name>
+			<url>https://repo.maven.apache.org/maven2</url>
+			<layout>default</layout>
+			<snapshots>
+				<enabled>false</enabled>
+			</snapshots>
+		</repository>
+		<repository>
+			<id>mvn-repo</id>
+			<url>https://raw.github.com/bcshmily/mvn-repo/master/</url>
+		</repository>
+	</repositories>
+</project>
