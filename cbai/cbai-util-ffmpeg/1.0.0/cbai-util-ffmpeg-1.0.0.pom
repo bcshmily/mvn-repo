@@ -1,0 +1,46 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>cbai</groupId>
+		<artifactId>cbai-parent</artifactId>
+		<version>0.1.8</version>
+        <relativePath>../cbai-parent/pom.xml</relativePath>
+	</parent>
+	<artifactId>cbai-util-ffmpeg</artifactId>
+	<version>1.0.0</version>
+	<properties>
+		<javacpp.version>1.5.11</javacpp.version>
+		<ffmpeg.version>7.1</ffmpeg.version>
+	</properties>
+	<dependencies>
+		<dependency>
+			<groupId>org.bytedeco</groupId>
+			<artifactId>javacv</artifactId>
+			<version>${javacpp.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.bytedeco</groupId>
+			<artifactId>javacpp</artifactId>
+			<version>${javacpp.version}</version>
+			<classifier>windows-x86_64</classifier>
+		</dependency>
+		<!-- 用到了 ffmpeg 需要把 ffmpeg 的平台实现依赖引入 -->
+		<dependency>
+			<groupId>org.bytedeco</groupId>
+			<artifactId>ffmpeg</artifactId>
+			<version>${ffmpeg.version}-${javacpp.version}</version>
+			<classifier>windows-x86_64</classifier>
+		</dependency>
+	</dependencies>
+	<repositories>
+		<repository>
+			<id>mvn-repo</id>
+			<url>https://raw.github.com/bcshmily/mvn-repo/master/</url>
+			<snapshots>
+				<enabled>true</enabled>
+				<updatePolicy>always</updatePolicy>
+			</snapshots>
+		</repository>
+	</repositories>
+</project>
