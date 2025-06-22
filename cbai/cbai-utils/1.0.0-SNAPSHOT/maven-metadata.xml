@@ -3,16 +3,16 @@
   <groupId>cbai</groupId>
   <artifactId>cbai-utils</artifactId>
   <versioning>
-    <lastUpdated>20250302135929</lastUpdated>
+    <lastUpdated>20250622033601</lastUpdated>
     <snapshot>
-      <timestamp>20250302.135929</timestamp>
-      <buildNumber>4</buildNumber>
+      <timestamp>20250622.033601</timestamp>
+      <buildNumber>5</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20250302.135929-4</value>
-        <updated>20250302135929</updated>
+        <value>1.0.0-20250622.033601-5</value>
+        <updated>20250622033601</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
