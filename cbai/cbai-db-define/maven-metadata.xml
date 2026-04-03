@@ -3,10 +3,11 @@
   <groupId>cbai</groupId>
   <artifactId>cbai-db-define</artifactId>
   <versioning>
-    <release>1.2.1</release>
+    <release>1.3.0</release>
     <versions>
       <version>1.2.1</version>
+      <version>1.3.0</version>
     </versions>
-    <lastUpdated>20260328140808</lastUpdated>
+    <lastUpdated>20260403074142</lastUpdated>
   </versioning>
 </metadata>

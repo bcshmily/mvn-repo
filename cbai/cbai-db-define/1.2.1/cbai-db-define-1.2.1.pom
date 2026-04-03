@@ -10,34 +10,4 @@
     <groupId>cbai</groupId>
     <artifactId>cbai-db-define</artifactId>
     <version>1.2.1</version>
-    
-	<build>
-	    <plugins>
-	        <plugin>
-	            <groupId>org.apache.maven.plugins</groupId>
-	            <artifactId>maven-source-plugin</artifactId>
-	            <version>3.4.0</version> <!-- 建议使用最新稳定版本 -->
-	            <executions>
-	                <execution>
-	                    <!-- 为这个执行实例指定一个ID -->
-	                    <id>attach-sources</id>
-	                    <!-- 将该插件的执行绑定到Maven的生命周期阶段 -->
-	                    <phase>package</phase> <!-- 在package阶段之后执行 -->
-	                    <!-- 指定要执行的目标 -->
-	                    <goals>
-	                        <!-- jar-no-fork 目标：将主源码打包成jar，且不会触发生命周期派生 -->
-	                        <goal>jar-no-fork</goal>
-	                    </goals>
-	                </execution>
-	            </executions>
-	            <!-- 可选配置 -->
-	            <configuration>
-	                <!-- 是否将源码包作为项目的一个附属构件附加，默认为true -->
-	                <attach>true</attach>
-	                <!-- 源码包的文件分类器，默认为 "sources"，最终文件名为：artifactId-version-sources.jar -->
-	                <classifier>sources</classifier>
-	            </configuration>
-	        </plugin>
-	    </plugins>
-	</build>
 </project>
